@@ -62,4 +62,4 @@ Which worker gets which tasks?
 
 See a running example with at least 3 concurrent process windows here:
 
-![Mac Example]("screenshot.png")
+![Screenshot]("screenshot.png")
